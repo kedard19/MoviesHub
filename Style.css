@@ -1,0 +1,157 @@
+#header{
+	position:fixed;
+	top:0;
+	width:100%;
+	height: 150px;
+}
+#topnav{
+	background-color:#6f4e37;
+	height:80px;
+}
+#icon{
+	margin-top:10px;
+	font-size:36px;
+	color:black;
+}
+.serif 
+{
+  font-family: "Times New Roman", Times, serif;
+}
+#searchbar{
+	margin-top:30px;
+	margin-left:140px;
+	width:380px;
+  float: right;  
+}
+#downarrow{
+	background-color:#837E7C;
+	border-radius:0px 3px 3px 0px;
+  margin-top: 40px;
+	color:black;
+	margin-left:830px;
+	width:36px;
+	font-size:25px;
+	bottom:30px;
+	padding-top:4px;
+	position:absolute;
+	text-align:center;
+	height:33px;
+}
+
+#menu:hover{
+  color: black;
+}
+#menu{
+	padding-top:30px;
+	margin-right:50px;
+	float:right;
+	font-size:35px;
+	color:white;
+}
+#mlist{
+	padding:15px 0px;
+	color:#000033;
+	font-weight:bold;
+	font-size:40px;
+  margin-left: 350px;
+		
+}
+#addmovie{
+	color:#ffffff;
+	font-size:30px;
+	float:right;
+	margin-right:15px;
+	margin-top:20px;
+
+}
+
+#addmovie:hover {
+  color: black;
+}
+
+#social:hover{
+  color: blue;
+}
+
+
+
+#moviename{
+	color:white;
+	font-size:18px;
+	text-decoration:underline;
+  background-color: black;
+  border-radius: 1px;
+}
+	
+	
+#footer{
+	background-color:#0B0C10;
+	text-align:center;
+	margin-top:45px;
+	height:	150px;
+	padding: 20px 0px;
+}
+#social{
+	color:white;
+	padding: 0px 30px;
+	cursor:pointer;
+}
+#ftext{
+	color:#666362;
+	margin-left:30px;
+	cursor:pointer;
+}
+
+.sidenav {
+  height: 55%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color:black;
+  margin-top:60px;
+  padding: 20px;
+}
+.sidenav a:hover {
+  color: black;
+}
+#textfield{
+	width:80%;
+	margin-left:35px;
+	padding-top:0px;
+  padding-bottom: 10px;
+	background-color:white;
+	border:1px;
+	border-color:black;
+  padding-left: 2px;
+}
+
+#pw{
+  margin-left: 3px;
+  padding-top: 2px;
+}
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#btnSubmit:hover{
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
